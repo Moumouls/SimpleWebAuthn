@@ -6,6 +6,7 @@
     "lint": "prettier --write packages/ example/ && eslint --fix packages/ example/",
     "docs": "npm run bootstrap && typedoc --tsconfig tsconfigdoc.json",
     "test": "lerna run test",
+    "publish": "npm run bootstrap && lerna publish",
     "build:types": "lerna bootstrap --scope=@simplewebauthn/typescript-types",
     "build:testing": "lerna bootstrap --scope=@simplewebauthn/testing",
     "build:browser": "lerna bootstrap --scope=@simplewebauthn/browser",
