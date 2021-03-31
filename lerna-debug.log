@@ -1,0 +1,8 @@
+43 error Error: Command failed: git add -- packages/testing/package.json packages/server/package.json packages/server/package-lock.json lerna.json
+43 error The following paths are ignored by one of your .gitignore files:
+43 error packages/server/package-lock.json
+43 error Use -f if you really want to add them.
+43 error
+43 error     at makeError (/Users/antoinecormouls/Desktop/OpenSource/SimpleWebAuthn/node_modules/execa/index.js:174:9)
+43 error     at /Users/antoinecormouls/Desktop/OpenSource/SimpleWebAuthn/node_modules/execa/index.js:278:16
+43 error     at processTicksAndRejections (node:internal/process/task_queues:93:5)

@@ -1,5 +1,5 @@
 {
-  "name": "@simplewebauthn/server",
+  "name": "@simplewebauthn-alt/server",
   "version": "2.2.0",
   "description": "SimpleWebAuthn for Servers",
   "main": "dist/index.js",
@@ -35,7 +35,7 @@
     "@peculiar/asn1-android": "^2.0.26",
     "@peculiar/asn1-schema": "^2.0.26",
     "@peculiar/asn1-x509": "^2.0.26",
-    "@simplewebauthn/typescript-types": "file:../typescript-types",
+    "@simplewebauthn-alt/typescript-types": "file:../typescript-types",
     "base64url": "^3.0.1",
     "cbor": "^5.1.0",
     "elliptic": "^6.5.3",

@@ -1,4 +1,4 @@
-import { Base64URLString } from '@simplewebauthn/typescript-types';
+import { Base64URLString } from '@simplewebauthn-alt/typescript-types';
 import fetch from 'node-fetch';
 import { KJUR } from 'jsrsasign';
 import base64url from 'base64url';

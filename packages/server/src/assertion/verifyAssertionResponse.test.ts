@@ -4,7 +4,7 @@ import verifyAssertionResponse from './verifyAssertionResponse';
 import * as decodeClientDataJSON from '../helpers/decodeClientDataJSON';
 import * as parseAuthenticatorData from '../helpers/parseAuthenticatorData';
 import toHash from '../helpers/toHash';
-import { AuthenticatorDevice, AssertionCredentialJSON } from '@simplewebauthn/typescript-types';
+import { AuthenticatorDevice, AssertionCredentialJSON } from '@simplewebauthn-alt/typescript-types';
 
 let mockDecodeClientData: jest.SpyInstance;
 let mockParseAuthData: jest.SpyInstance;

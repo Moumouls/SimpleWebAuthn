@@ -1,5 +1,5 @@
 import base64url from 'base64url';
-import type { Base64URLString } from '@simplewebauthn/typescript-types';
+import type { Base64URLString } from '@simplewebauthn-alt/typescript-types';
 
 /**
  * Convert X.509 certificate to an OpenSSL-compatible PEM text format.

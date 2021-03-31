@@ -1,4 +1,4 @@
-import { Base64URLString } from '@simplewebauthn/typescript-types';
+import { Base64URLString } from '@simplewebauthn-alt/typescript-types';
 
 import { MetadataStatement } from './metadataService';
 import { FIDO_METADATA_AUTH_ALG_TO_COSE } from '../helpers/constants';

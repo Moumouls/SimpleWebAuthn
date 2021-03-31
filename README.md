@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # SimpleWebAuthn Project
 ![WebAuthn](https://img.shields.io/badge/WebAuthn-Simplified-blueviolet?style=for-the-badge&logo=WebAuthn)
-[![npm (scoped)](https://img.shields.io/npm/v/@simplewebauthn/server?style=for-the-badge&logo=npm)](https://www.npmjs.com/search?q=simplewebauthn)
+[![npm (scoped)](https://img.shields.io/npm/v/@simplewebauthn-alt/server?style=for-the-badge&logo=npm)](https://www.npmjs.com/search?q=simplewebauthn)
 
 - [Overview](#overview)
 - [Example](#example)
@@ -12,12 +12,12 @@
 This monorepo contains two complimentary libraries to help reduce the amount of work needed to
 incorporate WebAuthn into a website. The following packages are maintained here:
 
-- [@simplewebauthn/server](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/server)
-- [@simplewebauthn/browser](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/browser)
+- [@simplewebauthn-alt/server](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/server)
+- [@simplewebauthn-alt/browser](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/browser)
 
 An additional package is also included that contains shared TypeScript definitions:
 
-- [@simplewebauthn/typescript-types](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/typescript-types/)
+- [@simplewebauthn-alt/typescript-types](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/typescript-types/)
 
 See these packages' READMEs for more specific implementation information.
 
@@ -47,6 +47,6 @@ $> npx lerna run test
 Running Jest in watch mode for a specific project requires the use of `lerna exec`:
 
 ```sh
-$> npx lerna exec npm run test:watch --scope=@simplewebauthn/server
+$> npx lerna exec npm run test:watch --scope=@simplewebauthn-alt/server
 ```
 

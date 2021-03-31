@@ -2,7 +2,7 @@ import {
   PublicKeyCredentialCreationOptionsJSON,
   AttestationCredential,
   AttestationCredentialJSON,
-} from '@simplewebauthn/typescript-types';
+} from '@simplewebauthn-alt/typescript-types';
 
 import toUint8Array from '../helpers/toUint8Array';
 import bufferToBase64URLString from '../helpers/bufferToBase64URLString';
@@ -13,7 +13,7 @@ import toPublicKeyCredentialDescriptor from '../helpers/toPublicKeyCredentialDes
 /**
  * Begin authenticator "registration" via WebAuthn attestation
  *
- * @param creationOptionsJSON Output from @simplewebauthn/server's generateAttestationOptions(...)
+ * @param creationOptionsJSON Output from @simplewebauthn-alt/server's generateAttestationOptions(...)
  */
 export default async function startAttestation(
   creationOptionsJSON: PublicKeyCredentialCreationOptionsJSON,

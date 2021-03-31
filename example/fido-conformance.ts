@@ -10,12 +10,12 @@ import {
   generateAssertionOptions,
   verifyAssertionResponse,
   MetadataService,
-} from '@simplewebauthn/server';
+} from '@simplewebauthn-alt/server';
 import {
   AssertionCredentialJSON,
   AttestationCredentialJSON,
-} from '@simplewebauthn/typescript-types';
-import { MetadataStatement } from '@simplewebauthn/server/dist/metadata/metadataService';
+} from '@simplewebauthn-alt/typescript-types';
+import { MetadataStatement } from '@simplewebauthn-alt/server/dist/metadata/metadataService';
 
 import { rpID, expectedOrigin } from './index';
 import { LoggedInUser } from './example-server';

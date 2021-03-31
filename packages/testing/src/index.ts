@@ -1,4 +1,4 @@
 /**
  * @packageDocumentation
- * @module @simplewebauthn/testing
+ * @module @simplewebauthn-alt/testing
  */

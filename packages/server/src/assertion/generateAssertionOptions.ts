@@ -3,7 +3,7 @@ import type {
   PublicKeyCredentialRequestOptionsJSON,
   PublicKeyCredentialDescriptor,
   UserVerificationRequirement,
-} from '@simplewebauthn/typescript-types';
+} from '@simplewebauthn-alt/typescript-types';
 import base64url from 'base64url';
 
 import generateChallenge from '../helpers/generateChallenge';

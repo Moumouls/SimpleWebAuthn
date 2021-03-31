@@ -1,6 +1,6 @@
 /**
  * @packageDocumentation
- * @module @simplewebauthn/browser
+ * @module @simplewebauthn-alt/browser
  */
 import startAttestation from './methods/startAttestation';
 import startAssertion from './methods/startAssertion';

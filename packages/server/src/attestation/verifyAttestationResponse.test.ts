@@ -10,7 +10,7 @@ import * as decodeCredentialPublicKey from '../helpers/decodeCredentialPublicKey
 import * as verifyFIDOU2F from './verifications/verifyFIDOU2F';
 
 import toHash from '../helpers/toHash';
-import { AttestationCredentialJSON } from '@simplewebauthn/typescript-types';
+import { AttestationCredentialJSON } from '@simplewebauthn-alt/typescript-types';
 
 let mockDecodeAttestation: jest.SpyInstance;
 let mockDecodeClientData: jest.SpyInstance;
