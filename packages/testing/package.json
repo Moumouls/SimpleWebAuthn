@@ -1,5 +1,5 @@
 {
-  "name": "@simplewebauthn/testing",
+  "name": "@simplewebauthn-alt/testing",
   "version": "0.10.7",
   "description": "Sample WebAuthn values for testing projects leveraging SimpleWebAuthn.",
   "main": "dist/index.js",

@@ -1,8 +1,8 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 /**
- * An example Express server showing off a simple integration of @simplewebauthn/server.
+ * An example Express server showing off a simple integration of @simplewebauthn-alt/server.
  *
- * The webpages served from ./public use @simplewebauthn/browser.
+ * The webpages served from ./public use @simplewebauthn-alt/browser.
  */
 
 import https from 'https';
@@ -20,7 +20,7 @@ import {
   // Login ("Assertion")
   generateAssertionOptions,
   verifyAssertionResponse,
-} from '@simplewebauthn/server';
+} from '@simplewebauthn-alt/server';
 
 import { LoggedInUser } from './example-server';
 

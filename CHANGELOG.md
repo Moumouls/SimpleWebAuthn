@@ -4,9 +4,9 @@
 
 **Packages:**
 
-- @simplewebauthn/browser@0.10.5
-- @simplewebauthn/server@0.10.5
-- @simplewebauthn/typescript-types@0.10.5
+- @simplewebauthn-alt/browser@0.10.5
+- @simplewebauthn-alt/server@0.10.5
+- @simplewebauthn-alt/typescript-types@0.10.5
 
 **Changes:**
 
@@ -19,9 +19,9 @@
 
 **Packages:**
 
-- @simplewebauthn/browser@0.10.4
-- @simplewebauthn/server@0.10.4
-- @simplewebauthn/typescript-types@0.10.4
+- @simplewebauthn-alt/browser@0.10.4
+- @simplewebauthn-alt/server@0.10.4
+- @simplewebauthn-alt/typescript-types@0.10.4
 
 **Changes:**
 
@@ -34,7 +34,7 @@
 
 **Packages:**
 
-- @simplewebauthn/server@0.10.3
+- @simplewebauthn-alt/server@0.10.3
 
 **Changes:**
 
@@ -44,7 +44,7 @@
 
 **Packages:**
 
-- @simplewebauthn/server@0.10.2
+- @simplewebauthn-alt/server@0.10.2
 
 **Changes:**
 
@@ -54,7 +54,7 @@
 
 **Packages:**
 
-- @simplewebauthn/server@0.10.1
+- @simplewebauthn-alt/server@0.10.1
 
 **Changes:**
 
@@ -64,9 +64,9 @@
 
 **Packages:**
 
-- @simplewebauthn/browser@0.10.0
-- @simplewebauthn/server@0.10.0
-- @simplewebauthn/typescript-types@0.10.0
+- @simplewebauthn-alt/browser@0.10.0
+- @simplewebauthn-alt/server@0.10.0
+- @simplewebauthn-alt/typescript-types@0.10.0
 
 **Changes:**
 
@@ -119,7 +119,7 @@ const options = generateAssertionOptions({
 
 **Packages:**
 
-- @simplewebauthn/server@0.9.1
+- @simplewebauthn-alt/server@0.9.1
 
 **Changes:**
 
@@ -129,9 +129,9 @@ const options = generateAssertionOptions({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.9.0
-- @simplewebauthn/server@0.9.0
-- @simplewebauthn/typescript-types@0.9.0
+- @simplewebauthn-alt/browser@0.9.0
+- @simplewebauthn-alt/server@0.9.0
+- @simplewebauthn-alt/typescript-types@0.9.0
 
 **Changes:**
 
@@ -148,9 +148,9 @@ const options = generateAssertionOptions({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.8.2
-- @simplewebauthn/server@0.8.2
-- @simplewebauthn/typescript-types@0.8.2
+- @simplewebauthn-alt/browser@0.8.2
+- @simplewebauthn-alt/server@0.8.2
+- @simplewebauthn-alt/typescript-types@0.8.2
 
 **Changes:**
 
@@ -162,7 +162,7 @@ const options = generateAssertionOptions({
 
 **Packages:**
 
-- @simplewebauthn/server@0.8.1
+- @simplewebauthn-alt/server@0.8.1
 
 **Changes:**
 
@@ -173,9 +173,9 @@ const options = generateAssertionOptions({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.8.0
-- @simplewebauthn/server@0.8.0
-- @simplewebauthn/typescript-types@0.8.0
+- @simplewebauthn-alt/browser@0.8.0
+- @simplewebauthn-alt/server@0.8.0
+- @simplewebauthn-alt/typescript-types@0.8.0
 
 **Changes:**
 
@@ -228,8 +228,8 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.7.4
-- @simplewebauthn/server@0.7.4
+- @simplewebauthn-alt/browser@0.7.4
+- @simplewebauthn-alt/server@0.7.4
 
 **Changes:**
 
@@ -240,8 +240,8 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.7.3
-- @simplewebauthn/server@0.7.3
+- @simplewebauthn-alt/browser@0.7.3
+- @simplewebauthn-alt/server@0.7.3
 
 **Changes:**
 
@@ -252,8 +252,8 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.7.2
-- @simplewebauthn/server@0.7.2
+- @simplewebauthn-alt/browser@0.7.2
+- @simplewebauthn-alt/server@0.7.2
 
 **Changes:**
 
@@ -264,9 +264,9 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.7.1
-- @simplewebauthn/server@0.7.1
-- @simplewebauthn/typescript-types@0.7.1
+- @simplewebauthn-alt/browser@0.7.1
+- @simplewebauthn-alt/server@0.7.1
+- @simplewebauthn-alt/typescript-types@0.7.1
 
 **Changes:**
 
@@ -276,9 +276,9 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.7.0
-- @simplewebauthn/server@0.7.0
-- @simplewebauthn/typescript-types@0.7.0
+- @simplewebauthn-alt/browser@0.7.0
+- @simplewebauthn-alt/server@0.7.0
+- @simplewebauthn-alt/typescript-types@0.7.0
 
 **Changes:**
 
@@ -295,7 +295,7 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/server@0.6.1
+- @simplewebauthn-alt/server@0.6.1
 
 **Changes:**
 
@@ -305,9 +305,9 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.6.0
-- @simplewebauthn/server@0.6.0
-- @simplewebauthn/typescript-types@0.6.0
+- @simplewebauthn-alt/browser@0.6.0
+- @simplewebauthn-alt/server@0.6.0
+- @simplewebauthn-alt/typescript-types@0.6.0
 
 **Changes:**
 
@@ -318,7 +318,7 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/typescript-types@0.5.1
+- @simplewebauthn-alt/typescript-types@0.5.1
 
 **Changes:**
 
@@ -328,9 +328,9 @@ const verification = verifyAttestationResponse({
 
 **Packages:**
 
-- @simplewebauthn/browser@0.5.0
-- @simplewebauthn/server@0.5.0
-- @simplewebauthn/typescript-types@0.5.0
+- @simplewebauthn-alt/browser@0.5.0
+- @simplewebauthn-alt/server@0.5.0
+- @simplewebauthn-alt/typescript-types@0.5.0
 
 **Changes:**
 

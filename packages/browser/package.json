@@ -1,6 +1,6 @@
 {
-  "name": "@simplewebauthn/browser",
-  "version": "0.10.8",
+  "name": "@simplewebauthn-alt/browser",
+  "version": "0.10.7",
   "description": "SimpleWebAuthn for Browsers",
   "main": "dist/simplewebauthn-browser.min.js",
   "types": "dist/index.d.ts",
@@ -8,10 +8,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MasterKale/SimpleWebAuthn.git",
+    "url": "https://github.com/Moumouls/SimpleWebAuthn.git",
     "directory": "packages/browser"
   },
-  "homepage": "https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/browser#readme",
+  "homepage": "https://github.com/Moumouls/SimpleWebAuthn/tree/master/packages/browser#readme",
   "publishConfig": {
     "access": "public"
   },
@@ -29,11 +29,11 @@
     "umd"
   ],
   "devDependencies": {
-    "@simplewebauthn/typescript-types": "file:../typescript-types",
+    "@simplewebauthn-alt/typescript-types": "^0.10.5",
     "ts-loader": "^7.0.5",
     "webpack": "^4.44.0",
     "webpack-auto-inject-version": "^1.2.2",
     "webpack-cli": "^3.3.12"
   },
-  "gitHead": "33ccf8c6c9add811c87d3089e24156c2342b3498"
+  "gitHead": "b122ec5460be0595615f64c25747f1894d5e1b9c"
 }

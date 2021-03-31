@@ -1,5 +1,5 @@
 import type { SigningSchemeHash } from 'node-rsa';
-import { COSEAlgorithmIdentifier } from '@simplewebauthn/typescript-types';
+import { COSEAlgorithmIdentifier } from '@simplewebauthn-alt/typescript-types';
 import { decodeCborFirst } from './decodeCbor';
 
 /**

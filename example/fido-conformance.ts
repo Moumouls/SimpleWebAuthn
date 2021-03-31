@@ -9,8 +9,8 @@ import {
   generateAssertionOptions,
   verifyAssertionResponse,
   MetadataService,
-} from '@simplewebauthn/server';
-import { MetadataStatement } from '@simplewebauthn/server/dist/metadata/metadataService';
+} from '@simplewebauthn-alt/server';
+import { MetadataStatement } from '@simplewebauthn-alt/server/dist/metadata/metadataService';
 
 import { LoggedInUser } from './example-server';
 

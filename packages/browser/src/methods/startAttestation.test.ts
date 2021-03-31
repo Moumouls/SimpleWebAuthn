@@ -1,7 +1,7 @@
 import {
   AttestationCredential,
   PublicKeyCredentialCreationOptionsJSON,
-} from '@simplewebauthn/typescript-types';
+} from '@simplewebauthn-alt/typescript-types';
 
 import toUint8Array from '../helpers/toUint8Array';
 import supportsWebauthn from '../helpers/supportsWebauthn';

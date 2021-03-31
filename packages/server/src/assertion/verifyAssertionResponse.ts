@@ -3,7 +3,7 @@ import {
   AssertionCredentialJSON,
   AuthenticatorDevice,
   UserVerificationRequirement,
-} from '@simplewebauthn/typescript-types';
+} from '@simplewebauthn-alt/typescript-types';
 
 import decodeClientDataJSON from '../helpers/decodeClientDataJSON';
 import toHash from '../helpers/toHash';

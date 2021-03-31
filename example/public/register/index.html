@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://unpkg.com/@simplewebauthn/browser@0.10.5/dist/simplewebauthn-browser.min.js"></script>
+    <script src="https://unpkg.com/@simplewebauthn-alt/browser@0.10.5/dist/simplewebauthn-browser.min.js"></script>
     <link rel="stylesheet" href="../styles.css" />
     <title>SimpleWebAuthn Example Site | Register</title>
   </head>
@@ -28,7 +28,7 @@
       // Hide the Begin button if the browser is incapable of using WebAuthn
       if (!supportsWebauthn()) {
         elemBegin.style.display = 'none';
-        elemError.innerText = 'It seems this browser doesn\'t support WebAuthn...';
+        elemError.innerText = "It seems this browser doesn't support WebAuthn...";
       }
 
       elemBegin.addEventListener('click', async () => {

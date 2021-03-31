@@ -1,6 +1,6 @@
 /**
  * @packageDocumentation
- * @module @simplewebauthn/server
+ * @module @simplewebauthn-alt/server
  */
 import generateAttestationOptions from './attestation/generateAttestationOptions';
 import verifyAttestationResponse from './attestation/verifyAttestationResponse';

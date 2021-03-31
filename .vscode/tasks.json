@@ -10,7 +10,7 @@
 			},
 			"problemMatcher": [],
 			"label": "npm: build:server",
-			"detail": "lerna bootstrap --scope=@simplewebauthn/server"
+			"detail": "lerna bootstrap --scope=@simplewebauthn-alt/server"
 		}
 	]
 }

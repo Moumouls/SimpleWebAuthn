@@ -1,6 +1,6 @@
 /**
  * @packageDocumentation
- * @module @simplewebauthn/typescript-types
+ * @module @simplewebauthn-alt/typescript-types
  */
 
 import type {

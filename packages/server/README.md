@@ -1,9 +1,9 @@
 <!-- omit in toc -->
-# @simplewebauthn/server
+# @simplewebauthn-alt/server
 
 ![WebAuthn](https://img.shields.io/badge/WebAuthn-Simplified-blueviolet?style=for-the-badge&logo=WebAuthn)
-[![npm (scoped)](https://img.shields.io/npm/v/@simplewebauthn/server?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@simplewebauthn/server)
-![node-lts (scoped)](https://img.shields.io/node/v/@simplewebauthn/server?style=for-the-badge&logo=Node.js)
+[![npm (scoped)](https://img.shields.io/npm/v/@simplewebauthn-alt/server?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@simplewebauthn-alt/server)
+![node-lts (scoped)](https://img.shields.io/node/v/@simplewebauthn-alt/server?style=for-the-badge&logo=Node.js)
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,7 +14,7 @@
 This package is available on **npm**:
 
 ```sh
-npm install @simplewebauthn/server
+npm install @simplewebauthn-alt/server
 ```
 
 ## Usage
