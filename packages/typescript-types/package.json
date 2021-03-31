@@ -8,10 +8,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MasterKale/SimpleWebAuthn.git",
+    "url": "https://github.com/Moumouls/SimpleWebAuthn.git",
     "directory": "packages/typescript-types"
   },
-  "homepage": "https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/typescript-types#readme",
+  "homepage": "https://github.com/Moumouls/SimpleWebAuthn/tree/master/packages/typescript-types#readme",
   "publishConfig": {
     "access": "public"
   },
